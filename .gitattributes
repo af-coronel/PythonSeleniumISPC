@@ -1,1 +1,3 @@
 * text=auto eol=lf
+my-venv/Scripts/src/tests/** -text
+
