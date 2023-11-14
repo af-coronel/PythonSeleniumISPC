@@ -1,2 +1,2 @@
 # PythonSeleniumISPC
-Test de paginas para practicar el uso del framework Selenium 
+La estructura de carpetas planteada en las clases se encuentra dentro de la ruta my-venv/Scripts/src
